@@ -1,0 +1,24 @@
+*{
+    list-style: none !important;
+    outline: none !important;
+    text-decoration: none !important;
+}
+body{
+    background: rgb(45, 71, 214) !important;
+    display: flex;
+    flex-direction: column !important;
+    height: 100vh !important;
+}
+header{
+    padding-bottom: 100px !important;
+    padding-top: 30px;
+}
+footer{
+    padding-top: 100px !important;
+}
+.btn-play{
+    background: #fff;
+    border-radius: 10px;
+    border: none;
+    padding: 10px 20px;
+}
